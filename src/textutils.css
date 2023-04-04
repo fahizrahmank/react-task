@@ -1,0 +1,19 @@
+ #App{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-left: 50px;
+    width: 100vw;
+    height: 100vh;
+    
+}
+.textarea1{
+     
+    height: 100px;
+    width: 500px;
+    display: flex;
+} 
+.second {
+    display: flex;
+    flex-direction: column;
+}
